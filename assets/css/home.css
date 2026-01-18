@@ -1,0 +1,10 @@
+nav {
+    display: flex;
+    gap: 30px;
+    margin: 0 auto;
+    width: fit-content;
+    background: white;      /* 👈 cor da navbar */
+    padding: 28px 180px;     /* espaço interno */
+    border-radius: 14px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
